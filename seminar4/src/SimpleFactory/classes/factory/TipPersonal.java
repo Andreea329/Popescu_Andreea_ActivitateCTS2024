@@ -5,4 +5,5 @@ public enum TipPersonal {
     ASISTENT,
     BANCARDIER,
     INFIRMIER
+
 }

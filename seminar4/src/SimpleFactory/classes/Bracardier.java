@@ -11,3 +11,4 @@ public class Bracardier extends PersonalSiptal {
        System.out.println("Bracardierul "+getNume() + " are salariul " + getSalariu());
     }
 }
+

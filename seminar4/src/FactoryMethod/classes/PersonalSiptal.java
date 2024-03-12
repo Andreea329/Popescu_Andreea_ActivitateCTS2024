@@ -27,3 +27,4 @@ public abstract class PersonalSiptal {
 
     public abstract void  afisareDetalii();
 }
+

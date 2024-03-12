@@ -11,3 +11,4 @@ public class Medic  extends PersonalSiptal {
         System.out.println("Medicul "+ getNume() + "are salariul " + getSalariu());
     }
 }
+
