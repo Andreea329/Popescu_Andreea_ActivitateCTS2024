@@ -11,4 +11,3 @@ public class Asistent  extends PersonalSiptal {
         System.out.println("Asistentul "+getNume() + " are salariul " + getSalariu());
     }
 }
-

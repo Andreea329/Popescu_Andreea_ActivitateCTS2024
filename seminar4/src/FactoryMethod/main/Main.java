@@ -5,7 +5,7 @@ import FactoryMethod.classes.factory.*;
 
 public class Main {
 
-    public static void prelucrarePersonal(FabricaPersonal fabricaPersonal, String nume, int salariu){
+    public static void prelucrarePersonal(FabricaPersonal fabricaPersonal, String nume, int salariu) {
         PersonalSiptal personalSpital = fabricaPersonal.createPersonal(nume, salariu);
 
         personalSpital.afisareDetalii();

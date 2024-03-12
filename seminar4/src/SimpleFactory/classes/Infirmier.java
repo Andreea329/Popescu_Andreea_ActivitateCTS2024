@@ -12,3 +12,4 @@ public class Infirmier extends PersonalSiptal {
     }
 
 }
+

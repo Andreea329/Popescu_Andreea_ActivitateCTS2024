@@ -11,4 +11,3 @@ public class Infirmier extends PersonalSiptal {
         System.out.println("Infirmierul "+ getNume() + "are salariul " + getSalariu());
     }
 }
-
