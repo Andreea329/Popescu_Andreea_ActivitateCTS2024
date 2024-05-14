@@ -27,7 +27,7 @@ public class Subsectiune extends StructuraAbstracta {
 
     @Override
     public void afiseazaDetalii(String indentare) {
-        System.out.println(indentare + "Subsectiune: " + getNume());
+        System.out.println(indentare + "Subsectiune: " + super.getNume());
         for (StructuraAbstracta structura : structuri) {
             structura.afiseazaDetalii(indentare + "  ");
         }

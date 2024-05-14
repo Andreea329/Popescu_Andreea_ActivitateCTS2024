@@ -20,5 +20,5 @@ public abstract class Subject {
             observer.primesteNotificarea(mesaj);
         }
     }
-    public abstract void notificaEpidemie();
+    public abstract void notificaEpidemie(); //trimite notificarea
 }

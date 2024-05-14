@@ -13,6 +13,6 @@ public class Items extends StructuraAbstracta {
 
     @Override
     public void afiseazaDetalii(String indentare) {
-        System.out.println(indentare + "Item: " + getNume());
+        System.out.println(indentare + "Item: " + super.getNume());
     }
 }
